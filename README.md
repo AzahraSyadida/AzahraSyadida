@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @AzahraSyadida
-- 👀 I’m interested in 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AzahraSyadida/AzahraSyadida is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Halo, my name is saya Azahra Syadida Indiratama. I am a third-year Information Systems student at Gunadarma University, passionate about data analysis, IT Management, and Information System Management. I am proficient in creating UI/UX mock-ups using Figma and adept at crafting innovative solutions through analytical thinking. I am committed to continuous learning and possess excellent verbal and written communication skills, showcased through public speaking and developing robust problem-solving strategies
